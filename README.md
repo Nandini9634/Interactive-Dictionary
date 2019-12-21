@@ -1,4 +1,4 @@
-# Interactive-Dictionary
+# Interactive Dictionary
 
 # Description
 
